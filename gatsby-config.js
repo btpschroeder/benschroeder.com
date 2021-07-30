@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Ben Schroeder`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Ben Schroeder`,
+      summary: `who lives and works in Orange County building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Ben Schroeder's personal corner of the internet`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `benisphere`,
     },
   },
   plugins: [
